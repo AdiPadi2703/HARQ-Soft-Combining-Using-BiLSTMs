@@ -1,6 +1,6 @@
 # HARQ-Soft-Combining-Using-BiLSTMs
 
-[Adithya S Ubaradka](https://github.com/AdiPadi2703)&nbsp;&nbsp;&nbsp;&nbsp;[Hemang J Jamadagni](https://github.com/Kazedaa)&nbsp;&nbsp;&nbsp;&nbsp;[Rohit Sunil]()<br>
+[Adithya S Ubaradka](https://github.com/AdiPadi2703)&nbsp;&nbsp;&nbsp;&nbsp;[Hemang J Jamadagni](https://github.com/Kazedaa)&nbsp;&nbsp;&nbsp;&nbsp;[Rohit Sunil](https://github.com/rohitsunil1102)<br>
 
 ## Abstract
 
