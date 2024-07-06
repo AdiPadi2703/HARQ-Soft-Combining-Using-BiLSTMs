@@ -2,6 +2,9 @@
 
 [Adithya S Ubaradka](https://github.com/AdiPadi2703)&nbsp;&nbsp;&nbsp;&nbsp;[Hemang J Jamadagni](https://github.com/Kazedaa)&nbsp;&nbsp;&nbsp;&nbsp;[Rohit Sunil](https://github.com/rohitsunil1102)<br>
 
+![HARQ_LSTM](https://img.shields.io/badge/HARQ_BiLSTM-Pre_Publication-blue)
+
+
 ## Abstract
 
 Hybrid Automatic Repeat reQuest (HARQ) is used in modern wireless data communication to integrate both Automatic Repeat reQuest (ARQ) and high-rate Forward Error
@@ -31,3 +34,7 @@ We used a custom dataset consisting of messages, each of 4 bytes consisting of r
 ## Analysis of Results
 
 For the analysis of the model's performance, we used the Bit Error Rate (BER) and its variation with the SNR.  The training was done on an SNR of 2dB.
+
+
+## Note from the Authors
+The paper is still under consideration and has not been published yet. Therefore, we have not included the model architecture and other novel ideas discussed in the paper. For further clarification, please raise an issue or contact any of the authors.
