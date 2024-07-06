@@ -21,6 +21,9 @@ We use a BiLSTM-based model because of its ability to preserve information over 
 
 The integration of this model with the existing HARQ architecture has also been considered in our work, by simply adding the model to the Soft Combining step of the process.  In the case where errors in a packet are detected (using Checksum or Cyclic Redundancy Check), the request for a second transmission is made.  Upon receiving the second packet, two packets are passed into the model, thus performing the Soft Combining step.
 
+![ProposedArchitecture](https://github.com/AdiPadi2703/HARQ-Soft-Combining-Using-BiLSTMs/assets/120291477/4f3e122a-9aa5-4b8a-87d0-9f7bdb0f4821)
+
+
 ## Dataset Used
 
 We used a custom dataset consisting of messages, each of 4 bytes consisting of randomly generated integers between 0 and 255 (inclusive).  Four instances of the model were taken to train on four different high-order modulation techniques (QAM-16, PAM-16, PSK-16, and ASK-16).  These modulation techniques were implemented using the Komm library.  The modulated signal goes through an Additive White Gaussian Noise (AWGN) channel, which is then demodulated back to a digital signal. This is done twice to get two noised frames of the same data for Soft Combining.
