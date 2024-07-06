@@ -37,4 +37,4 @@ For the analysis of the model's performance, we used the Bit Error Rate (BER) an
 
 
 ## Note from the Authors
-The paper is still under consideration and has not been published yet. Therefore, we have not included the model architecture and other novel ideas discussed in the paper. For further clarification, please raise an issue or contact any of the authors.
+The paper is still under review and has not been published yet. Therefore, we have not included the model architecture and other novel ideas discussed in the paper. For further clarification, please raise an issue or contact any of the authors.
