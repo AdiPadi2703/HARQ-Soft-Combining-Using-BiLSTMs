@@ -2,8 +2,6 @@
 
 [Adithya S Ubaradka](https://github.com/AdiPadi2703)&nbsp;&nbsp;&nbsp;&nbsp;[Hemang J Jamadagni](https://github.com/Kazedaa)&nbsp;&nbsp;&nbsp;&nbsp;[Rohit Sunil](https://github.com/rohitsunil1102)<br>
 
-![HARQ_LSTM](https://img.shields.io/badge/HARQ_BiLSTM-Pre_Publication-blue)
-
 
 ## Abstract
 
@@ -37,6 +35,6 @@ For the analysis of the model's performance, we used the Bit Error Rate (BER) an
 
 
 ## Note from the Authors
-The paper is still under review and has not been published yet. Therefore, we have not included the model architecture and other novel ideas discussed in the paper. For further clarification, please raise an issue or contact any of the authors.
+The paper has been accepted for oral presentation at the SSWC2024 which is scheduled towards the end of November. Therefore, we have not included the model architecture and other novel ideas discussed in the paper. For further clarification, please raise an issue or contact any of the authors.
 
 Link to the Conference: [International Conference on Smart Systems and Wireless Communication(SSWC2024)](https://www.jiscollege.ac.in/sswc2024/)
